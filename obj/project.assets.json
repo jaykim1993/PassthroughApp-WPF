@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\PassthroughApp.csproj",
+      "projectUniqueName": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\PassthroughApp.csproj",
       "projectName": "PassthroughApp",
-      "projectPath": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\PassthroughApp.csproj",
+      "projectPath": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\PassthroughApp.csproj",
       "packagesPath": "C:\\Users\\a0106\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\obj\\",
+      "outputPath": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a0106\\AppData\\Roaming\\NuGet\\NuGet.Config",

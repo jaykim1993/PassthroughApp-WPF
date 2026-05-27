@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:vm="clr-namespace:PassthroughApp.ViewModels"
         Title="🎙 Audio Passthrough"
-        Width="400" Height="300"
+        Width="300" Height="250"
         ResizeMode="NoResize"
         Background="#111111"
         WindowStartupLocation="CenterScreen">

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\",
+  "WorkspaceRootPath": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|c:\\users\\a0106\\downloads\\passthroughapp-wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|c:\\users\\a0106\\desktop\\repos\\c#\\passthroughapp-wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|c:\\users\\a0106\\downloads\\passthroughapp-wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|c:\\users\\a0106\\desktop\\repos\\c#\\passthroughapp-wpf\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|PassthroughApp.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\Views\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\Views\\MainWindow.xaml",
               "RelativeToolTip": "Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-27T04:28:39.272Z",
@@ -48,14 +48,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\a0106\\Desktop\\Repos\\C#\\PassthroughApp-WPF\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T03:54:18.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-27T03:54:18.685Z"
             }
           ]
         }
