@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eo5E4+hiagY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a0106\\Downloads\\PassthroughApp-WPF\\PassthroughApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a0106\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.1\\communitytoolkit.mvvm.8.4.1.nupkg.sha512",
+    "C:\\Users\\a0106\\.nuget\\packages\\soundflow\\1.4.1\\soundflow.1.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
